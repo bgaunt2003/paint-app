@@ -18,7 +18,7 @@ class main():
         self.eraser_colour = "white"
         self.eraser_select = False
         self.background_colour = "white"
-        self.penwidth = 5
+        self.penwidth = 6
         self.message_box_count = 0
         self.color = None
         self.current_x = None
