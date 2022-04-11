@@ -1,4 +1,4 @@
-from tkinter import colorchooser
+f2rom tkinter import colorchooser
 from tkinter import filedialog
 from login import *  # imports the login python program
 import tempfile
